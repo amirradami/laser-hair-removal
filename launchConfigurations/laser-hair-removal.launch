@@ -1,0 +1,14 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "aradralami@yahoo.com",
+      "Space": "dev"
+    },
+    "Name": "laser-hair-removal",
+    "Instrumentation": {}
+  },
+  "Path": "",
+  "Type": "Cloud Foundry"
+}
